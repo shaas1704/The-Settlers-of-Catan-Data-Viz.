@@ -35,8 +35,7 @@ W = wheat<br>
 O = ore<br>
 3G = 3:1 general port<br>
 2(X) = 2:1 port for resource X<br>
-D = desert <br><br>
-EX: in game 1, player 1's first settlement was on a 6-lumber, 3-clay, and 11-clay.<br>
+D = desert <br>
 production - total cards gained from settlements and cities during game<br>
 tradeGain - total cards gained from peer AND bank trades during game<br>
 robberCardsGain - total cards gained from stealing with the robber, plus cards gained with non-knight development cards. A road building card is +4 resources. <br>
@@ -45,4 +44,5 @@ tradeLoss - total cards lost from peer AND bank trades during game<br>
 robberCardsLoss - total cards lost from robbers, knights, and other players' monopoly cards<br>
 tribute - total cards lost when player had to discard on a 7 roll (separate from previous column.)<br>
 totalLoss - sum of previous 3 columns.<br>
-totalAvailable - totalGain minus totalLoss.<br>
+totalAvailable - totalGain minus totalLoss.<br><br>
+EX: in game 1, player 1's first settlement was on a 6-lumber, 3-clay, and 11-clay.<br>
