@@ -6,7 +6,7 @@ The strategic board game The Settlers of Catan is a modern classic. Introduced i
 This is my personal dataset of 50 4-player games I played on playcatan.com in 2014. Using the ingame statistics page and a spreadsheet, I logged starting position choices, the distribution of dice rolls, and how each player spent the resources they acquired by the end of the game. Note, of course, because this dataset only consists of my games, any analysis done is most relevant for games involving me…
 
 ## Questions I have considered:
-In Caran1:
+In Caran1: (Quantitative analysis)
 <p>
   1. How much luck is involved in winning a Catan game?<br>
   2. Does starting position matter? If so, what starting settlements lead to success from each position?<br>
@@ -14,7 +14,7 @@ In Caran1:
   4. By looking at postgame stats, what leads to a win? Can these statistics be a guide for ingame strategy?
 </p>
 <br>
-In Caran2: 
+In Caran2: (Luck tendencies)
 <br>
 <p>
   1. Is the winner really lucky?<br>
