@@ -46,3 +46,7 @@ tribute - total cards lost when player had to discard on a 7 roll (separate from
 totalLoss - sum of previous 3 columns.<br>
 totalAvailable - totalGain minus totalLoss.<br><br>
 EX: in game 1, player 1's first settlement was on a 6-lumber, 3-clay, and 11-clay.<br>
+<br><br><br><br>
+
+
+#### Official Link: https://www.kaggle.com/lumins/settlers-of-catan-games
