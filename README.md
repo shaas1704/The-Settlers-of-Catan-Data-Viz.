@@ -13,7 +13,7 @@ In Caran1: (Quantitative analysis)
   3. How much information on the eventual winner can be gained from starting position/settlements alone?<br>
   4. By looking at postgame stats, what leads to a win? Can these statistics be a guide for ingame strategy?
 </p>
-<br>
+
 In Caran2: (Luck tendencies)
 <br>
 <p>
